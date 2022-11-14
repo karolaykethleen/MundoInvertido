@@ -27,6 +27,6 @@ Na semana do Front End by DIO (Digital Innovation One) criamos do zero uma Landi
 ## 🌎 Minhas redes sociais
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/98917989?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
+    <p>&nbsp&nbsp&nbspKarolay Kethleen Machado<br>
     &nbsp&nbsp&nbsp<a href="http://instagram.com/karolmxd">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/karolaykethleen">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/karolaykmachado/">LinkedIn</a></p>
 </p>
